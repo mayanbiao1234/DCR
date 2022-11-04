@@ -1,5 +1,4 @@
-# DCR
-<font size=3 >**Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification**</font>
+# **Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification**
 
 In Section 3 we propose measures for the perceptual manifold's volume, separation, and curvature. We provide the pseudo-code below to show how to apply these methods in practice. Our approach can be applied not only to calculate the geometric properties of feature manifolds but also to the image space. In addition to image data, other types of data also obey the manifold distribution law, so our method can be employed to evaluate them as well.
 
